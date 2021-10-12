@@ -1,0 +1,9 @@
+Files related to the Articles about Quantum Computing:
+  BlochSphere.ipynb is graphic for creation of Bloch Spheres
+  Basics.ipynb is for the basic representation of qubits (probability, Bloch Spheres)
+  Entanglement.ipynb basic quantum network (two qubits) for explaining Entanglement, contains Bloch Spheres, State Vectors, Qspheres
+ 
+Note that all these examples are based on IBM quiskit- see https://qiskit.org/textbook/what-is-quantum.html for details.
+A new version is under https://qiskit.org/textbook-beta/, but most of the examples are based on the old version of the textbook.
+
+The qiskit software package is open source and available from https://qiskit.org/
